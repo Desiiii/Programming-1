@@ -1,0 +1,12 @@
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\obj\Debug\Rainbows.pyprojResolveAssemblyReference.cache
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\obj\Debug\Rainbows.MainForm.resources
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\obj\Debug\Rainbows.pyproj.GenerateResource.Cache
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\Rainbows.exe.config
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\Rainbows.exe
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\Rainbows.dll
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\IronPython.dll
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\IronPython.Modules.dll
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\Microsoft.Scripting.dll
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\lowery.d\Documents\SharpDevelop Projects\Rainbows\Rainbows\obj\Debug\Rainbows.exe
